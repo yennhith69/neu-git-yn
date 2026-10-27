@@ -1,1 +1,1 @@
-Hello Github 
+Version 2: Updated header configuration 
